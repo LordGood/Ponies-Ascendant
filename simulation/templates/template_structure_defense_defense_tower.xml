@@ -23,8 +23,8 @@
   </Attack>
   <BuildingAI>
     <DefaultArrowCount>1</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-	<GarrisonArrowClasses>Infantry Ranged</GarrisonArrowClasses>
+    <GarrisonArrowMultiplier>0.64</GarrisonArrowMultiplier>
+	<GarrisonArrowClasses>Support Ranged</GarrisonArrowClasses>
   </BuildingAI>
   <BuildRestrictions>
     <Category>DefenseTower</Category>
@@ -73,12 +73,7 @@
   <Obstruction>
     <Static width="7.0" depth="7.0"/>
   </Obstruction>
-  <ProductionQueue>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
-    <Technologies datatype="tokens">
-      pair_tower_01
-    </Technologies>
-  </ProductionQueue>
+  
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_tower.xml</select>
@@ -98,7 +93,7 @@
     <Weight>30000</Weight>
   </TerritoryInfluence>
   <Vision>
-    <Range>80</Range>
+    <Range>100</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>

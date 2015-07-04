@@ -15,7 +15,7 @@
     <Max>80</Max>
   </Health>
   <Identity>
-    <Rank>Advanced</Rank> <SpecificName>Competent Auxiliary</SpecificName>  </Identity>
+    <Rank>Advanced</Rank> <SpecificName>Competent Auxiliary</SpecificName> <RequiredTechnology>slinger_upgrade_01</RequiredTechnology> </Identity>
   <Promotion>
     <Entity>units/uni_infantry_slinger_e</Entity>
   </Promotion>
@@ -23,7 +23,7 @@
     <BaseSpeed>0.75</BaseSpeed>
   </ResourceGatherer>
   <UnitMotion>
-    <WalkSpeed>11.00</WalkSpeed>
+    <WalkSpeed>15.00</WalkSpeed>
     <Run>
       <Speed>22.44</Speed>
     </Run>

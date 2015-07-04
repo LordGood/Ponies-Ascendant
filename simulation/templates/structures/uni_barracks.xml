@@ -27,11 +27,14 @@
   </Obstruction>
   <ProductionQueue>
     <Entities datatype="tokens">
-      units/uni_infantry_spearman_a
-      units/uni_infantry_archer_a
-      units/uni_champion_halberdier
+  units/uni_infantry_spearman_a      units/uni_infantry_archer_a
+units/uni_infantry_slinger_a      units/uni_champion_halberdier
     </Entities>
-  </ProductionQueue>
+ <Technologies datatype="tokens">
+      -heal_barracks
+      -unlock_champion_units
+      training_conscription
+    </Technologies> </ProductionQueue>
   <VisualActor>
     <Actor>structures/unicorns/barracks.xml</Actor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>

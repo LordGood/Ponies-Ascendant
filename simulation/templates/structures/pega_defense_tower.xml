@@ -4,7 +4,7 @@
   <Attack>
     <Ranged>
       <Hack>0.0</Hack>
-      <Pierce>38.0</Pierce>
+      <Pierce>30.0</Pierce>
       <Crush>0.0</Crush>
       <MaxRange>90.0</MaxRange>
       <MinRange>9.0</MinRange>
@@ -23,7 +23,7 @@
     </Ranged>
   </Attack><Cost>
     
-    <BuildTime>103</BuildTime>
+    <BuildTime>150</BuildTime>
 
     <Resources>
 
@@ -43,13 +43,13 @@
 
   <Health>
 
-    <Max>3000</Max>
+    <Max>2000</Max>
 
   </Health>  <Footprint>
 
     <Square width="11.5" depth="12.0"/>
 
-    <Height>15.0</Height>
+    <Height>45.0</Height>
 
   </Footprint>
 

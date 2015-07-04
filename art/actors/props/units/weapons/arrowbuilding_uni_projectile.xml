@@ -4,6 +4,9 @@
   <group>
     <variant frequency="100" name="Base">
       <mesh>props/weap_buildingarrow_uni_projectile.dae</mesh>
+      <props>
+        <prop actor="particle/missile_trail_small_long.xml" attachpoint="root"/>
+      </props>
       <textures>
         <texture file="structural/uni_struct.png" name="baseTex"/>
       </textures>

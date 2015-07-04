@@ -53,7 +53,7 @@
       structures/{civ}_temple
       structures/{civ}_market
       structures/{civ}_defense_tower
-   structures/{civ}_wallset_wood  structures/{civ}_wallset_stone
+   structures/{civ}_wallset_wood structures/{civ}_roadset structures/{civ}_wallset_stone
       structures/{civ}_civil_centre
       structures/{civ}_fortress
 	  structures/{civ}_wonder

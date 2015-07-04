@@ -21,9 +21,9 @@
     </Ranged>
   </Attack>
   <BuildingAI>
-    <DefaultArrowCount>1</DefaultArrowCount>
+    <DefaultArrowCount>0</DefaultArrowCount>
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-	<GarrisonArrowClasses>Infantry Ranged</GarrisonArrowClasses>
+	<GarrisonArrowClasses>Support Ranged</GarrisonArrowClasses>
   </BuildingAI>
   <BuildRestrictions>
     <PlacementType>land-shore</PlacementType>
@@ -40,7 +40,7 @@
     <Height>8.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>5</Max>
+    <Max>1</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry</List>

@@ -8,7 +8,7 @@
 <Builder>
     <Rate>1.0</Rate>
     <Entities datatype="tokens">
-      structures/{civ}_house
+    -other/wallset_palisade -other/palisade_rocks_fort  structures/{civ}_house
       structures/{civ}_storehouse
       structures/{civ}_farmstead
       structures/{civ}_field
@@ -20,7 +20,7 @@
       structures/{civ}_temple
       structures/{civ}_market
       structures/{civ}_defense_tower
-      structures/{civ}_wallset_stone
+   structures/{civ}_roadset   structures/{civ}_wallset_stone
       structures/{civ}_civil_centre
       structures/{civ}_fortress
 	  structures/{civ}_wonder

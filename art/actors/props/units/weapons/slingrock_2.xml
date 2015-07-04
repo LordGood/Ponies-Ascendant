@@ -4,6 +4,9 @@
   <group>
     <variant frequency="1" name="slingrock">
       <mesh>props/weap_slingrock_2.dae</mesh>
+      <props>
+        <prop actor="particle/missile_trail_small.xml" attachpoint="root"/>
+      </props>
       <textures>
         <texture file="gaia/rock_ocean_1.dds" name="baseTex"/>
       </textures>

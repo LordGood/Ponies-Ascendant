@@ -26,7 +26,7 @@
   </Attack>
   <BuildingAI>
     <DefaultArrowCount>6</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <GarrisonArrowMultiplier>0.64</GarrisonArrowMultiplier>
   </BuildingAI>
   <Cost> 
     <BuildTime>2000</BuildTime>
@@ -82,7 +82,8 @@
       units/earth_champion_infantry
       units/earth_infantry_spearman_e
       units/earth_infantry_slinger_e
-    </Entities>
+
+units/earth_infantry_javelinist_e    </Entities>
     <Technologies datatype="tokens">
       pair_siege_attack_cost
       pair_siege_cost_armor
