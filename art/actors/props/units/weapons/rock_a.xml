@@ -4,10 +4,7 @@
   <group>
     <variant frequency="1" name="rock">
       <mesh>props/weap_rock_flaming_a.dae</mesh>
-      <props>
-        <prop actor="particle/missile_trail_large.xml" attachpoint="root"/>
-      </props>
-      <textures>
+           <textures>
         <texture file="gaia/stone_temperate_granite.dds" name="baseTex"/>
       </textures>
     </variant>
