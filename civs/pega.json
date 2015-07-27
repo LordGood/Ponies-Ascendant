@@ -8,8 +8,7 @@
 			{"File":"Cirrus.ogg", "Type":"peace"},
 			{"File":"Melody_of_Neighkilos.ogg", "Type":"peace"},
 			{"File":"Cloud_Hopping.ogg", "Type":"peace"},
-			{"File":"No_More_Reinforcements.ogg", "Type":"peace"},			{"File":"Legend_of_Hayjax.ogg", "Type":"peace"},			{"File":"Pegasi_Mobilize.ogg", "Type":"peace"}
-			{"File":"Pegasi_Mobilize.ogg", "Type":"battle"}
+			{"File":"No_More_Reinforcements.ogg", "Type":"peace"},			{"File":"Legend_of_Hayjax.ogg", "Type":"peace"},			{"File":"Pegasi_Mobilize.ogg", "Type":"peace"},		{"File":"Pegasi_Mobilize.ogg", "Type":"battle"}
 		],
 	"Factions":
 	[
