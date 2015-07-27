@@ -7,6 +7,6 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "armor_leather.png",
 	"researchTime": 40,
-	"tooltip": "All Slingers are Trained at the Advanced Rank.",
+	"tooltip": "Unlocks Slingers.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

@@ -15,7 +15,7 @@
     <Max>80</Max>
   </Health>
   <Identity>
-    <Rank>Advanced</Rank> <SpecificName>Competent Auxiliary</SpecificName> <RequiredTechnology>slinger_upgrade_01</RequiredTechnology> </Identity>
+    <Rank>Advanced</Rank> <SpecificName>Competent Auxiliary</SpecificName> </Identity>
   <Promotion>
     <Entity>units/uni_infantry_slinger_e</Entity>
   </Promotion>

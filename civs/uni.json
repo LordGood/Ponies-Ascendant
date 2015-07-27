@@ -5,11 +5,15 @@
 	"Emblem": "session/portraits/emblems/emblem_earth_ponies.png",
 	"History": ".",
 	"Music":[
-			{"File":"The_Road_Ahead.ogg", "Type":"peace"},
-			{"File":"Highland_Mist.ogg", "Type":"peace"},
-			{"File":"Celtic_Pride.ogg", "Type":"peace"},
-			{"File":"Celtica.ogg", "Type":"peace"},
-			{"File":"Cisalpine_Gaul.ogg", "Type":"peace"}
+			{"File":"Unicorn_Intro.ogg", "Type":"peace"},
+			{"File":"Gain_the_Walls.ogg", "Type":"peace"},
+			{"File":"Snowing_Sideways.ogg", "Type":"peace"},
+			{"File":"Testing_Buttresses.ogg", "Type":"peace"},
+			{"File":"Unicorn_Superiority.ogg", "Type":"peace"},
+			{"File":"Altitude_Sickness.ogg", "Type":"peace"},
+			{"File":"Organ_Donor.ogg", "Type":"peace"},
+			{"File":"Armed_to_the_Horn.ogg", "Type":"peace"},
+			{"File":"Armed_to_the_Horn.ogg", "Type":"war"}
 		],
 	"Factions":
 	[

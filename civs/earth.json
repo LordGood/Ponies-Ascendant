@@ -5,12 +5,9 @@
 	"Emblem": "session/portraits/emblems/emblem_earth_ponies.png",
 	"History": ".",
 	"Music":[
-			{"File":"The_Road_Ahead.ogg", "Type":"peace"},
-			{"File":"Highland_Mist.ogg", "Type":"peace"},
-			{"File":"Celtic_Pride.ogg", "Type":"peace"},
-			{"File":"Celtica.ogg", "Type":"peace"},
-			{"File":"Cisalpine_Gaul.ogg", "Type":"peace"}
-		],
+			{"File":"Old_Thatch.ogg", "Type":"peace"},
+			{"File":"Working_the_Fields.ogg", "Type":"peace"},
+			{"File":"Wartime_Economy.ogg", "Type":"peace"}],
 	"Factions":
 	[
 		{

@@ -26,8 +26,5 @@
 
 	"tooltip": "All Slingers Upgrade to the Elite Rank.",
 
-	"modifications":  [{"value": "Promotion/RequiredXp", "replace": 0}],
-	"affects": ["Slinger Advanced"],
-
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

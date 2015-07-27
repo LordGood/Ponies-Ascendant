@@ -69,7 +69,7 @@
   </UnitMotion>
  <Sound>
     <SoundGroups>
-      <attack>attack/impact/shield_wooden.xml</attack>
+      <attack>attack/weapon/halberd.xml</attack>
   <select>voice/hellenes/civ/female/civ_female_select.xml</select>
       <order_walk>voice/hellenes/civ/female/civ_female_walk.xml</order_walk>
       <order_attack>voice/hellenes/civ/female/civ_female_attack.xml</order_attack>
